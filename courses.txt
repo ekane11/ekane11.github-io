@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<head>
+<title>Courses</title>
+</head>
+
+<body>
+
+</body>
+</html>

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<head>
+<title>Personal Interests</title>
+</head>
+
+<body>
+<h1>Family: </h1>
+<p>I have two parents, two brothers, and two pets.</p>
+<p>Here is a picture of my cat, Jazzy: </p>
+<img src="jazzy.jpg" alt="Picture of Jazzy">
+</body>
+</html>
